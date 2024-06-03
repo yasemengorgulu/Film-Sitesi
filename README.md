@@ -6,9 +6,8 @@ Bu projede HTML,CSS ve JS özellikleri kullanıldı.
 
 <h2> Özellikler</h2>
 
-Site içi geçişler,Gece-Gündüz modu
+Site içi geçişler,Gece-Gündüz modu, sürüklenebilir pencere yapısı kaliteli yüz,gi responsive tasarım
 
 <h2> Ekran Görüntüsü</h2>
 
 ![](site.gif)
-git
