@@ -10,4 +10,5 @@ Site içi geçişler,Gece-Gündüz modu
 
 <h2> Ekran Görüntüsü</h2>
 
-![](film sitesi.gif)
+![](site.gif)
+git
