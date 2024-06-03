@@ -1,4 +1,4 @@
-<h1>Film Sitesi gitProjesi</h1>
+<h1>Film Sitesi Projesi</h1>
 
 <h2> Harici Kullanımlar</h2>
 
